@@ -1,0 +1,11 @@
+# ESP-IDF build artifacts
+build/
+sdkconfig
+*.o
+*.a
+backend-*.log
+# IDE
+.vscode/
+.idea/
+# OS
+.DS_Store
